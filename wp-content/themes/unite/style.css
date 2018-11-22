@@ -646,12 +646,12 @@ p.logged-in-as {
   text-transform: uppercase;
 }
 .entry-meta a {
-  color: #6B6B6B;
+  color: #fff;
 }
 .entry-meta .fa {
   font-size: 16px;
   margin-right: 3px;
-  color: #54397E;
+  color: #fbe0e0;
 }
 .entry-meta span {
   margin-right: 10px;
@@ -824,7 +824,7 @@ hr.section-divider:after {
 }
 .carousel-caption p {
 	background: #555;
-  background: rgba(0, 0, 0,0.5);
+  background: rgba(0, 0, 0,0.0);
   padding: 15px;
   max-width: 50%;
 }
